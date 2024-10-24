@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
+  --background: black;
   --foreground: #171717;
 }
 
@@ -24,4 +24,21 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+
+link-93 {
+  color: #ffffff; /* Default color */
+  font-size: 20px;
+  text-decoration: none;
+  padding: 10px 20px;
+  margin: 0 5px;
+  position: relative;
+  display: inline-block;
+  transition: all 0.5s;
+}
+
+.link-93:hover {
+  color: #86EFAC; /* Color on hover, matching text-green-300 */
+  text-shadow: 0 0 50px #86EFAC, 0 0 20px #86EFAC, 0 0 30px #86EFAC, 0 0 50px #86EFAC; /* Glowing effect */
 }
