@@ -16,7 +16,7 @@ const Nav = () => {
                 <nav className="bg-transparent shadow-sm border-b border-gray-800">
                     <div className="max-w-7xl mx-auto flex items-center justify-between py-5 px-4 sm:px-6 lg:px-8">
                         <div>
-                            <a href="#" className="text-2xl font-bold text-green-300">
+                            <a href="#" className=" text-2xl font-bold text-green-300">
                                 <span className="text-5xl">/&gt;</span>roshanta Rodrigues
                             </a>
                         </div>
