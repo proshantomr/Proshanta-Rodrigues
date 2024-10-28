@@ -12,8 +12,8 @@ const Nav = () => {
 
     return (
         <div>
-            <div className="bg-transparent bg-gray-950">
-                <nav className="bg-transparent shadow-sm border-b border-gray-800">
+            <div className="bg-transparent ">
+                <nav className="bg-transparent ">
                     <div className="max-w-7xl mx-auto flex items-center justify-between py-5 px-4 sm:px-6 lg:px-8">
                         <div>
                             <a href="#" className=" text-2xl font-bold text-green-300">
